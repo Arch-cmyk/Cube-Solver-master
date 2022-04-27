@@ -1,7 +1,7 @@
 # Cube-Solver
 # Algorithm to solve a 3x3 Rubik's Cube.
 
-Edit: Need to upload .bmp format pictures in the same directory as that of the code with the following titles
+Edit:  to upload .bmp format pictures in the same directory as that of the code with the following titles
 
 a) top_face.bmp  
 
